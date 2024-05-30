@@ -1,0 +1,13 @@
+.social-container{
+    margin-right: 35px;
+}
+
+.social{
+    list-style-type: none;
+    display: flex;
+    flex-flow: row;
+}
+
+.social li{
+    margin-left: 67px;
+}

@@ -1,0 +1,16 @@
+.button-container{
+    padding-top: 44.5px;
+    border-top: solid 2px white;
+}
+
+.button{
+    border-radius: 15px;
+    background-color: white;
+    padding: 15px 125px 11px 125px;
+}
+
+.button-link{
+    text-decoration: none;
+    color: #080C71;
+    font-size: 30px;
+}
