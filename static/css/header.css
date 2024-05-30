@@ -1,0 +1,40 @@
+.menu-container{
+    margin-top: 87px;
+    margin-right: 35px;
+}
+
+.menu-nav{
+    list-style-type: none;
+    display: flex;
+    flex-flow: row;
+}
+
+.menu-nav li{
+    margin-left: 54px;
+}
+
+.menu-nav li a{
+    color: white;
+    font-size: 20px;
+}
+
+.menu-nav li a:link{
+    text-decoration: none;
+}
+
+.menu-nav li a:visited{
+    text-decoration: none;
+}
+
+.menu-nav li a:hover{
+    text-decoration: none;
+}
+
+.menu-nav li a:active{
+    text-decoration: none;
+}
+
+.logo-container{
+    margin-top: 20px;
+    margin-left: 35px;
+}

@@ -1,0 +1,38 @@
+.h1-container{
+    padding: 18.5px;
+    border-top: 2px solid #343434;
+    border-bottom: 2px solid #343434;
+}
+
+.h1-container h1{
+    font-size: 80px;
+    color: white;
+}
+
+.p-container{
+    margin-top: 51.5px;
+    text-align: center;
+    margin-bottom: 42.5px;
+}
+
+.p-container p{
+    color: white;
+    font-size: 30px;
+}
+
+.button-container{
+    padding-top: 44.5px;
+    border-top: 2px solid white;
+}
+
+.button{
+    border-radius: 15px;
+    background-color: white;
+    padding: 15px 125px 11px 125px;
+}
+
+.button-link{
+    text-decoration: none;
+    color: #080C71;
+    font-size: 30px;
+}

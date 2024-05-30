@@ -1,13 +1,12 @@
-.social-container{
+.contacts-container{
     margin-right: 35px;
 }
 
-.social{
+.contacts{
     list-style-type: none;
     display: flex;
-    flex-flow: row;
 }
 
-.social li{
+.contacts li{
     margin-left: 67px;
 }
